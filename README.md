@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Vivi</h1>
+<h3 align="center">Building web and mobile apps with passion from Hamburg.</h3>
 
 <!--
 **vivienhennig/vivienhennig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
